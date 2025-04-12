@@ -1,3 +1,39 @@
+# Weather App
+
+This is a simple React-based Weather App that displays weather information for a specific city. The app allows users to search for a city and view its current weather details such as temperature, humidity, and weather conditions.
+
+## Features
+
+- **City Search**: Search for weather information by city name.
+- **Weather Details**: Displays the following weather information:
+  - Current temperature
+  - Minimum and maximum temperature
+  - Humidity
+  - Weather condition (e.g., haze, clear, etc.)
+- **Dynamic Updates**: The app dynamically updates the weather information based on user input.
+
+## Components
+
+1. **WeatherApp**:
+   - The main component that manages the state of the weather information.
+   - Contains the `SearchBox` and `InfoBox` components.
+   - Uses React's `useState` hook to manage weather data.
+
+2. **SearchBox**:
+   - A child component that allows users to input a city name.
+   - Calls the `updateInfo` function in the parent component to update the weather information.
+
+3. **InfoBox**:
+   - A child component that displays the weather details passed as props from the parent component.
+
+## How to Run
+
+1. **Clone the Repository**:
+   ```bash
+   git clone <repository-url>
+   cd WeatherApp-react
+
+
 Procedure to Execute:
 
 use command : npm run dev
