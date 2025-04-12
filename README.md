@@ -5,15 +5,17 @@ This will give Local host url  so follow that cpurl
 
 Enter the city name: -
 
-![image](https://github.com/user-attachments/assets/1ed20af8-7fc1-4b1c-950d-3319cd816df2)
+![image](https://github.com/user-attachments/assets/47e1768d-2a7b-4cd9-936d-95b0a02f164a)
+
 
 If You enter correct city:-
+![image](https://github.com/user-attachments/assets/3e575845-6cac-436f-b15b-748ab628f939)
 
-![Screenshot 2025-04-12 203740](https://github.com/user-attachments/assets/7c3a95be-0cfb-4778-b361-74ab30d6be8f)
 
 If you enter wrong city name: 
 
-![Screenshot 2025-04-12 203808](https://github.com/user-attachments/assets/2553910e-9aae-49ab-a513-e4fd7fd32960)
+![image](https://github.com/user-attachments/assets/0d06cf9d-5de1-4a9f-97ee-72409ba5104d)
+
 
 # React + Vite
 
