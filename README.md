@@ -9,6 +9,7 @@ Enter the city name: -
 
 
 If You enter correct city:-
+
 ![image](https://github.com/user-attachments/assets/3e575845-6cac-436f-b15b-748ab628f939)
 
 
